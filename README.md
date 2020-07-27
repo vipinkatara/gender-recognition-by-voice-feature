@@ -31,21 +31,16 @@ The following acoustic properties of each voice are measured and included within
     label: male or female
 
 Accuracy
-Baseline (always predict male)
 
-50% / 50%
-Logistic Regression
+53% / 48%
+Naive Baeys
 
-97% / 98%
-CART
 
 96% / 97%
 Random Forest
 
-100% / 98%
-SVM
+68% / 71%
+SVC
 
-100% / 99%
-XGBoost
 
-100% / 99%
+
