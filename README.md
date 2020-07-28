@@ -42,5 +42,7 @@ Random Forest
 68% / 71%
 SVC
 
+71% / 73%
+KNN
 
 
